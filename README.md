@@ -17,7 +17,7 @@ For the last **1+ year**, I’ve been learning, building, and experimenting with
 - **MongoDB** (Mongoose), **MySQL** (Prisma ORM)
 
 ### ⚡ DevOps & Tools
-- **Docker**, Git/GitHub, Postman, VS Code  
+- **Docker**, **Git/GitHub**, **Postman**, **VS Code**
 
 ---
 
@@ -35,4 +35,3 @@ For the last **1+ year**, I’ve been learning, building, and experimenting with
 - 💬 WhatsApp: [Chat with me](https://wa.me/8801568517556)  
 
 
-⭐️ From [Mahim](https://github.com/mahim-dewan)
