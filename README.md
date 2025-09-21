@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Mahim Dewan
 
-🚀 MERN Stack Developer | 🌐 Full-Stack Enthusiast | 🔗 Exploring New Technologies  
+💻 MERN Stack Developer | Full-Stack Enthusiast | Exploring New Technologies  
 
 For the last **1+ year**, I’ve been learning, building, and experimenting with the **MERN stack** and beyond. My journey has been all about writing clean code, solving problems, and shipping real-world projects.  
 
